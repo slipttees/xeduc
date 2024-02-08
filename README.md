@@ -1,2 +1,2 @@
 # xeduc
-Repositorio para arquivod deb
+Repositorio Deb para a solução SEDUC 24.04 LTS
