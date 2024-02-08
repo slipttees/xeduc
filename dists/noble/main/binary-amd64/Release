@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Xeduc
+Label: Xeduc
+Architecture: amd64
+Description: Debian X86-64 packages in github repository

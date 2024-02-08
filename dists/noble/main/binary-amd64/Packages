@@ -1,0 +1,72 @@
+Package: lightdm-seduc-theme
+Source: lightdm-seduc-theme
+Version: 0.1
+Architecture: all
+Maintainer: Carlos Renê <carlosrenejr@prof.ce.gov.br>
+Installed-Size: 259
+Depends: lightdm-gtk-greeter
+Replaces: lightdm-gtk-greeter
+Priority: optional
+Section: x11
+Filename: pool/main/l/lightdm-seduc-theme/lightdm-seduc-theme_0.1_all.deb
+Size: 2592878
+SHA256: 640f4f545d9d02596d6f2c5b80b60994f8928a83b1238df4307d3f852a49c2a8
+SHA1: 9eb26d88fdc65cfb11d0fdc0cc240003f9ab43f3
+MD5sum: 0dbcfdd5115513816197361dde0359f5
+Description: aparência da tela de login da secretaria de educação 2024.
+
+Package: plymouth-theme-seduc-logo
+Source: plymouth-theme-seduc-logo
+Version: 0.1-1
+Architecture: all
+Maintainer: Carlos Rene <carlosrenejr@prof.ce.gov.br>
+Installed-Size: 101
+Depends: plymouth, plymouth-label
+Breaks: plymouth (<< 0.9.2-3ubuntu1~)
+Provides: plymouth-theme
+Priority: optional
+Section: x11
+Filename: pool/main/p/plymouth-theme-seduc-logo/plymouth-theme-seduc-logo_0.1-1_all.deb
+Size: 137216
+SHA256: 591444c0da61a484d8b91da5e292383a7e3445ca10d02d194e7cfcca72282b18
+SHA1: 5dd62d6876af620a5ddbc34842be2c140d4aa2c2
+MD5sum: f6c982d6724f7cdcb6316fa8bba055ab
+Description: animação gráfica de inicialização do tema 
+ Brasão governo do estado do Ceará referente a secretaria de educação.
+
+Package: ttf-seduc-fonts
+Source: ttf-seduc-fonts
+Version: 0.1
+Architecture: all
+Maintainer: Carlos Renê <carlosrenejr@prof.ce.gov.br>
+Installed-Size: 2
+Priority: optional
+Section: fonts
+Filename: pool/main/t/ttf-seduc-fonts/ttf-seduc-fonts_0.1_all.deb
+Size: 941054
+SHA256: 238dec1ccf5175ed37edceeae8a62bce53bcbb3b9ae70959cefb10e6429c1330
+SHA1: a926878f436c40cc7f25990cbfdcb4d959bbb787
+MD5sum: 723b81c503f2bbe5c2a75a38d08a2418
+Description: conjunto de fontes utilizada pela secretaria de educação em 2024.
+ . 
+ As fontes incluidas são:
+ .  
+  * Kanit
+  * Maitree
+
+Package: xfce4-seduc-theme
+Source: xfce4-seduc-theme
+Version: 0.1
+Architecture: all
+Maintainer: Carlos Renê <carlosrenejr@prof.ce.gov.br>
+Installed-Size: 259
+Replaces: xubuntu-default-settings, papirus-icon-theme
+Priority: optional
+Section: x11
+Filename: pool/main/x/xfce4-seduc-theme/xfce4-seduc-theme_0.1_all.deb
+Size: 2633514
+SHA256: e8a6eff66e8f84c45754900c7e978a9c43347d2c913bce413a8cf3336535d559
+SHA1: 6072c728c2f4888b3db1dbf321a7ef1aadd8e5d9
+MD5sum: 6e789645f3ca25e9337ef2878170e3a6
+Description: aparência do sistema Linux da secretaria de educação 2024.
+

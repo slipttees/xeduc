@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Xeduc
+Label: Xeduc
+Suite: stable
+Codename: noble
+Date: Thu, 08 Feb 2024 18:13:35 UTC
+Architectures: amd64
+Components: main
+Description: Debian X86-64 packages in github repository
+MD5Sum:
+ 6e934412e87bb27009b73adc1b91f388 2417 main/binary-amd64/Packages
+ 10839e50886ffa83b6216947b550f169 1019 main/binary-amd64/Packages.gz
+ a0bcc7e9f422f329ca72d176c15164c7 136 main/binary-amd64/Release
+SHA1:
+ 9878e6b1f471313af9ec5fac27ab09c89d9fb826 2417 main/binary-amd64/Packages
+ 9eb805445a2961d684be12f1407818e9b00df0a0 1019 main/binary-amd64/Packages.gz
+ f595674aaa11c06d1cda10edff9f62b6a6e7d63b 136 main/binary-amd64/Release
+SHA256:
+ 02c4452c202b4cf41ce678342a5fc0389413449a1a9c7e510c823cf5eabdda26 2417 main/binary-amd64/Packages
+ 2d36e7562b01875f18870a293949806b866a1eb60601a991e0c112e404ecd667 1019 main/binary-amd64/Packages.gz
+ ea63b5b1ba9d6ccc9cca62286d1a8f44af1eadf9a6ea2071be4aa94acb015c6a 136 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEL3Ly1R5A5jyRihidAc23UZC2ACwFAmXFGc8ACgkQAc23UZC2
+ACwgWxAAu22iAadyNVveNf7Ohe44+9Qi5yh+a56+AaEOS7EeUwBjtAfg+vZlk8vQ
+CLM9Um8r5i1+cuN4mKQUwa+6xv46eR0sPy/now5/XzUi4MBlrNIfSuAhhppRj69f
+Vo0Ukw0CDqTXkttuxtAg41/E+wNkP+9zI/otXIDWBmo3LTcgat+eNktLK/VL172k
+J2GyoeVWEUSdPTr0Obp6Cji2bxAQ64r5XwN5Baf6TaZogRNxm2744CqzJZM7wAxF
+GKalfG8bUppKPSHvXtzyYQxjzMMV8Gekgy/5QCjIPf52QMtnxFqJAAgOS+eMwe1G
+C+NhvB3ABkfQwHewkPu2ABIZb7f/Xy4+gxNR1FBm8miUnWBpwdr81IikwrWudVNr
+BRjam428Q1BcQA187n/G1e3+/U5btc9+s5MCCqAU6kENxwVSBrLXuA+4gopRiaUM
+QZ7FFD9HRYs/iEdKB1N8jFVlZyRtZw7A9RSKtzo3flBDHACvyJBBAIsBHs7RLh6u
+EEYVi0MzxvDrU49tX3XnTbZLWAHpWSMyYuRRajPyLolF4F0kVUa8uubjxzNjRCci
+q6OM4PHRQZeZJzCz4FVz7zxrFZt5fOvoC6xLyJztTCNsJu5hiUMHt9mYE+lJh8aT
+tlciaOcqqym7dKCGYXYoTifmghQeJA+TOmpgPSYE4BQpx6WQi5Y=
+=goGs
+-----END PGP SIGNATURE-----

@@ -1,0 +1,20 @@
+Origin: Xeduc
+Label: Xeduc
+Suite: stable
+Codename: noble
+Date: Thu, 08 Feb 2024 18:13:35 UTC
+Architectures: amd64
+Components: main
+Description: Debian X86-64 packages in github repository
+MD5Sum:
+ 6e934412e87bb27009b73adc1b91f388 2417 main/binary-amd64/Packages
+ 10839e50886ffa83b6216947b550f169 1019 main/binary-amd64/Packages.gz
+ a0bcc7e9f422f329ca72d176c15164c7 136 main/binary-amd64/Release
+SHA1:
+ 9878e6b1f471313af9ec5fac27ab09c89d9fb826 2417 main/binary-amd64/Packages
+ 9eb805445a2961d684be12f1407818e9b00df0a0 1019 main/binary-amd64/Packages.gz
+ f595674aaa11c06d1cda10edff9f62b6a6e7d63b 136 main/binary-amd64/Release
+SHA256:
+ 02c4452c202b4cf41ce678342a5fc0389413449a1a9c7e510c823cf5eabdda26 2417 main/binary-amd64/Packages
+ 2d36e7562b01875f18870a293949806b866a1eb60601a991e0c112e404ecd667 1019 main/binary-amd64/Packages.gz
+ ea63b5b1ba9d6ccc9cca62286d1a8f44af1eadf9a6ea2071be4aa94acb015c6a 136 main/binary-amd64/Release

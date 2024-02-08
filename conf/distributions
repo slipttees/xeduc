@@ -1,0 +1,8 @@
+Origin: Xeduc
+Label: Xeduc
+Suite: stable
+Codename: noble
+Architectures: amd64
+Components: main
+Description: Debian X86-64 packages in github repository
+SignWith: 2F72F2D51E40E63C918A189D01CDB75190B6002C
